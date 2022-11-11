@@ -14,6 +14,7 @@ Instructions and scripts to make a post deployment of an image with Git, R, Rstu
 
 <details>
 <summary>Click to expand the instructions</summary>
+
 ### Putting user instructions on public desktop
 Clone or download the git, put it in:
 c:\users\public\desktop
