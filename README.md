@@ -2,6 +2,8 @@
 
 Instructions and scripts to make a post deployment of an image with Git, R, Rstudio, Python, Anaconda and/or Miniconda easier for the user.
 
+** Please ensure the right (sub)domains are allowed for the Workspace **
+
 
 ## Instructions for the user post deployment
 - Read the Readme.txt in User Instruction folder on the desktop
