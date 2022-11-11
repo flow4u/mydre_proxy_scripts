@@ -1,0 +1,2 @@
+http_proxy=http://proxy.mydre.org:3128
+https_proxy=https://proxy.mydre.org:3128
